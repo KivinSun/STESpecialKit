@@ -1,0 +1,30 @@
+{
+  "name": "STESpecialKit",
+  "version": "1",
+  "summary": "A short description of STESpecialKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/KivinSun/STESpecialKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KivinSun": "15063244755@163.com"
+  },
+  "source": {
+    "git": "https://github.com/KivinSun/STESpecialKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "STESpecialKit/Classes/**/*",
+  "dependencies": {
+    "STECategoryKit": [
+
+    ],
+    "CTMediator": [
+
+    ]
+  }
+}

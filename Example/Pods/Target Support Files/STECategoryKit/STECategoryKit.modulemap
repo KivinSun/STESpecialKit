@@ -1,0 +1,6 @@
+framework module STECategoryKit {
+  umbrella header "STECategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
